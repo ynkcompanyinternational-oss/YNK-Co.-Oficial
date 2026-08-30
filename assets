@@ -1,1 +1,13 @@
+  }
+
+  .crypto-form,
+  .process,
+  .dashboard-main,
+  .allocation{
+    padding:20px
+  }
+
+}
+  
+  
 
